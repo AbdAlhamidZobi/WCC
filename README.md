@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[page](https://github.com/AbdAlhamidZobi/WCC-Site/edit/master/page.html)
+[Go to page](page.html)
 
 You can use the [editor on GitHub](https://github.com/AbdAlhamidZobi/WCC-Site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
